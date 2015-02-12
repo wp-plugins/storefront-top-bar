@@ -11,7 +11,7 @@ Adds two widgets areas on top of the header of Storefront.
 
 == Description ==
 
-This plugin will add two widget areas on top of the main header. The purpose of adding these widget areas is t easily add navigations and notices on the top.
+This plugin will add two widget areas on top of the main header. The purpose of adding these widget areas is to easily add navigations and notices on the top.
 
 This plugin is built to work only for the [Storefront theme](https://wordpress.org/themes/storefront).
 
@@ -22,6 +22,7 @@ This plugin is built to work only for the [Storefront theme](https://wordpress.o
 * You can easily customize the background, text, and link colors in the Customizer. You can find the settings under _Top Bar_ section.
 
 **Notes:**  
+
 * The Top Bar widget areas works similar to Storefront's footer widgets areas. When only the _first widget_ area has widgets, it's width will be at 100% and the _second widget_  area will not show up.
 * We've added styling support for custom menu widgets. It's look and feel is similar to the main menu and its sub-menu styles.
 * This plugin doesn't support the sticky header option added by the _Storefront Designer extension_.
@@ -48,23 +49,23 @@ This plugin is built to work only for the [Storefront theme](https://wordpress.o
 
 == Frequently Asked Questions ==
 
-**Will this plugin work for themes other than Storefront?**
+**Will this plugin work for themes other than Storefront?** 
 Unfortunately, No. This plugin was designed to work for the Storefront theme, utilizing Storefront's action hooks and filters. Activating the plugin while using a different theme will trigger a warning.
 
-**I've activated the plugin, where can I access the settings?**
+**I've activated the plugin, where can I access the settings?** 
 The settings for this plugin can be found in the Customize page under Appearance. In that page, find the section named "Top Bar".
 
-**How are custom menu widgets shown?**
+**How are custom menu widgets shown?** 
 We've added styling for the custom menu widgets. It's look and feel is similar to the main menu and its sub-menu styles.
 
-**Will this work on mobile or is it responsive?**
+**Will this work on mobile or is it responsive?** 
 The widget areas are designed to be responsive. We've also added an option in the customizer to hide the Top Bar entirely when viewing it on mobile.
 
 
 
 == Screenshots ==
  
-1. The top bar widget areas on action
+1. The top bar widget areas in action
 2. Top bar section added on the Customize page under Appearance.
 
 

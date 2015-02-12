@@ -3,7 +3,7 @@
  * Plugin Name:			Storefront Top Bar
  * Plugin URI:			http://wooassist.com/
  * Description:			Adds two bars on top of the Storefront theme header.
- * Version:				1.1.0
+ * Version:				1.0.0
  * Author:				WooAssist
  * Author URI:			http://woothemes.com/
  * Requires at least:	4.0.0
